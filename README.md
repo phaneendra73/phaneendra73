@@ -50,7 +50,7 @@
   <a href="https://in.linkedin.com/in/phaneendra73" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/phaneendra37" target="_blank">
+  <a href="https://twitter.com/phaneendra73_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/tech_telusa/" target="_blank">
