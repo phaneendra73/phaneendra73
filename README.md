@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Phaneendra . I am a passionate Developer with expertise in Web technologies. My goal is to combine my technical skills with my creativity to deliver outstanding results.I have been working on web development for the past ! year and have a strong grip on my skills .Currently working in ALLCLOUD as Software engineer Trainee , learning C# , ASP.NET, Entity Framework. etc..</p>
+<p align="left">Hi there! My name is Phaneendra, and I’m a passionate developer specializing in web technologies.Currently working as an Associate Software Engineer at ALLCLOUD, focusing on technologies like C#, ASP.NET, MVC and Entity Framework. My goal is to blend technical expertise with creativity to deliver exceptional results.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning C#, ASP.NET<br>🎯 Goals: Build own Business<br>🎲 Fun fact: have an meme Page follow on instagram .</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning NEXTJS, AI, RAG <br>🎯 Goals: Build own Business<br>🎲 Fun fact: have an meme Page follow on instagram .</p>
 
 ###
 
